@@ -588,25 +588,25 @@ This project can be deployed using:
 
 ## 🔐 Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ---
 
 ## 📝 Register Page
 
-![Register Page](screenshots/register.png)
+![Register Page](./screenshots/register.png)
 
 ---
 
 ## 📋 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ---
 
 ## ✅ Task Management
 
-![Tasks](screenshots/tasks.png)
+![Tasks](./screenshots/tasks.png)
 
 # 👨‍💻 Author
 
