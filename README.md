@@ -584,6 +584,29 @@ This project can be deployed using:
 - MongoDB Atlas
 
 ---
+# 📸 Project Screenshots
+
+## 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+## 📝 Register Page
+
+![Register Page](screenshots/register.png)
+
+---
+
+## 📋 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## ✅ Task Management
+
+![Tasks](screenshots/tasks.png)
 
 # 👨‍💻 Author
 
@@ -601,3 +624,4 @@ This project was developed as part of a Full Stack MERN Internship Assignment fo
 - Frontend Integration
 - Scalable Architecture
 >>>>>>> e3a1c27430329dfeab74b5347494d4837e772dd8
+>>>>>>> 
