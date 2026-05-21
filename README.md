@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Task Manager App
 
 A full-stack task management application built with Node.js, Express, MongoDB on the backend and React on the frontend.
