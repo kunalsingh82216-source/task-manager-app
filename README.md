@@ -623,5 +623,4 @@ This project was developed as part of a Full Stack MERN Internship Assignment fo
 - Secure Backend Development
 - Frontend Integration
 - Scalable Architecture
->>>>>>> e3a1c27430329dfeab74b5347494d4837e772dd8
->>>>>>> 
+
